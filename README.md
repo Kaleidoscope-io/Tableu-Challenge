@@ -8,19 +8,19 @@ Data Source: [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
 Used pandas/jupyter notebook to merge the individual files (one for each month) and relabeled gender (to unknown, male, and female instead of 0,1, and 2). Have the following fields in Tableau. 
 
-Trip Duration (seconds)
-Start Time and Date
-Stop Time and Date
-Start Station Name
-End Station Name
-Station ID
-Station Lat/Long
-Bike ID
-User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
-Gender (Zero=unknown; 1=male; 2=female)
-Year of Birth
-Age (Calculated in Tableau based on Birth Year)
-Age Groups (Created groups of 5 years in Tableau)
+* Trip Duration (seconds)
+* Start Time and Date
+* Stop Time and Date
+* Start Station Name
+* End Station Name
+* Station ID
+* Station Lat/Long
+* Bike ID
+* User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+* Gender (Zero=unknown; 1=male; 2=female)
+* Year of Birth
+* Age (Calculated in Tableau based on Birth Year)
+* Age Groups (Created groups of 5 years in Tableau)
 
 
 ## Tasks and Takeaways
