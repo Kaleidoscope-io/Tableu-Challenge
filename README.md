@@ -1,7 +1,6 @@
 # Tableau Homework - Citi Bike Analytics
 
 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
 As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, I downloaded Jun through Dec 2019 data to provide some insights on CitiBike usage, ridership, and my recommendations. 
 Data Source: [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
