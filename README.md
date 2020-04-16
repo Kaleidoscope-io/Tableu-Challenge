@@ -21,6 +21,7 @@ Used pandas/jupyter notebook to merge the individual files (one for each month) 
 * Year of Birth
 * Age (Calculated in Tableau based on Birth Year)
 * Age Groups (Created groups of 5 years in Tableau)
+* Sum of trips at Each Station (divided into 3 buckets for >66,666, 66,666-33,333, <33,333)
 
 
 ## Tasks and Takeaways
@@ -35,9 +36,9 @@ Used pandas/jupyter notebook to merge the individual files (one for each month) 
 
 * What are the peak hours in which bikes are used during winter months? Commute hours (8am and then 5-6pm) have peak activity. 
 
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?) Indicated in top 10 stations but basically the ones in the center of NY and ones on the periphery that go to New Jersey, etc.
 
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?) 
+* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?) Similar to the top 10 starting stations
 
 * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 
