@@ -35,7 +35,8 @@ Used pandas/jupyter notebook to merge the individual files (one for each month) 
 
 * What are the peak hours in which bikes are used during winter months? Commute hours (8am and then 5-6pm) have peak activity. 
 
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?) Indicated in top 10 stations but basically the ones in the center of NY and ones on the periphery that go to New Jersey, etc.
+* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?) The stations that are busiest are in the center of NY as they are probably using the NY Subway to continue their route and the periphery to connect to other modes of transportation to other cities (like New Jersey). 
+
 
 * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?) Similar to the top 10 starting stations
 
@@ -43,11 +44,11 @@ Used pandas/jupyter notebook to merge the individual files (one for each month) 
 
 * Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 
-* Today, what is the gender breakdown of active participants (Male v. Female)? about 70% males and 23% females 
+* Today, what is the gender breakdown of active participants (Male v. Female)? about 70% males and 23% females (7% Unknown)
 
-* How effective has gender outreach been in increasing female ridership over the timespan? Not very effective as females did not increase over teh timespan.
+* How effective has gender outreach been in increasing female ridership over the timespan? Not very effective as females did not increase over the timespan.
 
-* How does the average trip duration change by age? People in teh age group of 25-35 and 5-55 have peak activity both in trip duration and number of trips.
+* How does the average trip duration change by age? People in the age group of 25-35 and 50-55 have peak activity both in trip duration and number of trips.
 
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 Assuming longer trip duration bikes will need repair the top 3 (based on trip duration) are: 16498, 32225, 39570
@@ -58,7 +59,9 @@ Assuming longer trip duration bikes will need repair the top 3 (based on trip du
 
 ## BIG TAKEAWAYS
 
-
+1. Age and Gender are big factors in using CitiBikes with Males using them more and some Age groups (25-35 and around 50-55) using them more.
+2. Summer has more usage activity than Winter.
+3. The stations that are busiest are in the center of NY as they are probably using the NY Subway to continue their route and the periphery to connect to other modes of transportation to other cities (like New Jersey). 
 
 
 
