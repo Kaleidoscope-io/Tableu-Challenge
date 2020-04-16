@@ -37,13 +37,6 @@ Used pandas/jupyter notebook to merge the individual files (one for each month) 
 
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?) The stations that are busiest are in the center of NY as they are probably using the NY Subway to continue their route and the periphery to connect to other modes of transportation to other cities (like New Jersey). 
 
-
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?) Similar to the top 10 starting stations
-
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
-
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
-
 * Today, what is the gender breakdown of active participants (Male v. Female)? about 70% males and 23% females (7% Unknown)
 
 * How effective has gender outreach been in increasing female ridership over the timespan? Not very effective as females did not increase over the timespan.
